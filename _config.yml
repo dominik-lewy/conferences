@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
-description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+title: Conferences
+description: "Conferences that I gave presentation on!"
+year: 2023
+author: dominik lewy
 # add search box to navbar, true/false
 search: false
 
