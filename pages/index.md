@@ -2,7 +2,7 @@
 title: Example Timeline
 layout: page
 # add TimelineJS
-timeline: dl_conferences
+timeline: demo-timeline
 timeline-options:
   hash_bookmark: true
 ---
